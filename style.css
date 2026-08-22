@@ -40,7 +40,7 @@ button {
   width: 100%;
   text-align: center;
   padding: 0.6rem 0;
-  background: #24c4d3;
+  background: #996cc3;
 }
 
 .header .header-title {
@@ -236,8 +236,11 @@ button {
 
 /* FOOTER */
 footer {
-  padding: 1rem;
+  background: #996cc3;
+  color: white;
   text-align: center;
-  margin-top: 10rem;
-  color: #fff;
+  padding: 1rem;
+}
+.link {
+  color: white;
 }
